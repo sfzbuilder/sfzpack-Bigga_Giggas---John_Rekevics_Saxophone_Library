@@ -1,4 +1,4 @@
-# BiggaGiggas - John Rekevics Sax Library
+# Bigga Giggas - John Rekevics Saxophone Library for SFZmaker
 SFZPack of Bigga Giggas - The John Rekevics Saxophone Library (2003)
 
 ## Sample files placement
