@@ -1,0 +1,38 @@
+<region> sample=Samples/STAC_2mono_G#2.wav  pitch_keycenter=44 hikey=44 tune=-4
+<region> sample=Samples/STAC_2mono_A2.wav  pitch_keycenter=45 lokey=45 hikey=45 tune=1
+<region> sample=Samples/STAC_2mono_A#2.wav  pitch_keycenter=46 lokey=46 hikey=46 tune=8
+<region> sample=Samples/STAC_2mono_B2.wav  pitch_keycenter=47 lokey=47 hikey=47 tune=17
+<region> sample=Samples/STAC_2mono_C3.wav  pitch_keycenter=48 lokey=48 hikey=48 tune=24
+<region> sample=Samples/STAC_2mono_C#3.wav  pitch_keycenter=49 lokey=49 hikey=49 tune=26
+<region> sample=Samples/STAC_mono_D3.wav  pitch_keycenter=50 lokey=50 hikey=50 tune=27
+<region> sample=Samples/STAC_mono_D#3.wav  pitch_keycenter=51 lokey=51 hikey=51 tune=27
+<region> sample=Samples/STAC_mono_E3.wav  pitch_keycenter=52 lokey=52 hikey=52 tune=32
+<region> sample=Samples/STAC_2mono_F3.wav  pitch_keycenter=53 lokey=53 hikey=53 tune=20
+<region> sample=Samples/STAC_mono_F#3.wav  pitch_keycenter=54 lokey=54 hikey=54 tune=41
+<region> sample=Samples/STAC_2mono_G3.wav  pitch_keycenter=55 lokey=55 hikey=55 tune=6
+<region> sample=Samples/STAC_mono_G#3.wav  pitch_keycenter=56 lokey=56 hikey=56 tune=1
+<region> sample=Samples/STAC_2mono_A3.wav  pitch_keycenter=57 lokey=57 hikey=57 tune=23
+<region> sample=Samples/STAC_mono_A#3.wav  pitch_keycenter=58 lokey=58 hikey=58 tune=28
+<region> sample=Samples/STAC_2mono_B3.wav  pitch_keycenter=59 lokey=59 hikey=59 tune=41
+<region> sample=Samples/STAC_2mono_C4.wav  lokey=60 hikey=60 tune=10
+<region> sample=Samples/STAC_mono_C#4.wav  pitch_keycenter=61 lokey=61 hikey=61 tune=6
+<region> sample=Samples/STAC_2mono_D4.wav  pitch_keycenter=62 lokey=62 hikey=62 tune=-8
+<region> sample=Samples/STAC_2mono_D#4.wav  pitch_keycenter=63 lokey=63 hikey=63 tune=-7
+<region> sample=Samples/STAC_mono_E4.wav  pitch_keycenter=64 lokey=64 hikey=64 tune=19
+<region> sample=Samples/STAC_mono_F4.wav  pitch_keycenter=65 lokey=65 hikey=65 tune=-21
+<region> sample=Samples/STAC_2mono_F#4.wav  pitch_keycenter=66 lokey=66 hikey=66 tune=16
+<region> sample=Samples/STAC_mono_G4.wav  pitch_keycenter=67 lokey=67 hikey=67 tune=6
+<region> sample=Samples/STAC_2mono_G#4.wav  pitch_keycenter=68 lokey=68 hikey=68 tune=21
+<region> sample=Samples/STAC_2mono_A4.wav  pitch_keycenter=69 lokey=69 hikey=69 tune=14
+<region> sample=Samples/STAC_2mono_A#4.wav  pitch_keycenter=70 lokey=70 hikey=70 tune=23
+<region> sample=Samples/STAC_2mono_B4.wav  pitch_keycenter=71 lokey=71 hikey=71 tune=27
+<region> sample=Samples/STAC_2mono_C5.wav  pitch_keycenter=72 lokey=72 hikey=72 tune=9
+<region> sample=Samples/STAC_mono_C#5.wav  pitch_keycenter=73 lokey=73 hikey=73 tune=21
+<region> sample=Samples/STAC_2mono_D5.wav  pitch_keycenter=74 lokey=74 hikey=74 tune=18
+<region> sample=Samples/STAC_2mono_D#5.wav  pitch_keycenter=75 lokey=75 hikey=75 tune=30
+<region> sample=Samples/STAC_2mono_E5.wav  pitch_keycenter=76 lokey=76 hikey=76 tune=9
+<region> sample=Samples/STAC_2mono_E5.wav  pitch_keycenter=76 lokey=77 hikey=77 tune=9
+<region> sample=Samples/STAC_2mono_G5.wav  pitch_keycenter=79 lokey=78 hikey=78 tune=-16
+<region> sample=Samples/STAC_2mono_G5.wav  pitch_keycenter=79 lokey=79 hikey=79 tune=-16
+<region> sample=Samples/STAC_2mono_G5.wav  pitch_keycenter=79 lokey=80 hikey=80 tune=-16
+<region> sample=Samples/STAC_2mono_A5.wav  pitch_keycenter=81 lokey=81 tune=24

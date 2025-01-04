@@ -1,0 +1,14 @@
+<region> sample=Samples/honk_mono_C2.wav  pitch_keycenter=36 hikey=36
+<region> sample=Samples/honk_mono_C#2.wav  pitch_keycenter=37 key=37
+<region> sample=Samples/honk_mono_D2.wav  pitch_keycenter=38 key=38
+<region> sample=Samples/honk_mono_D#2.wav  pitch_keycenter=39 key=39
+<region> sample=Samples/honk_mono_E2.wav  pitch_keycenter=40 key=40
+<region> sample=Samples/honk_mono_F2.wav  pitch_keycenter=41 key=41
+<region> sample=Samples/honk_mono_F#2.wav  pitch_keycenter=42 key=42
+<region> sample=Samples/honk_mono_G2.wav  pitch_keycenter=43 key=43
+<region> sample=Samples/honk_mono_G#2.wav  pitch_keycenter=44 key=44 tune=-9
+<region> sample=Samples/honk_mono_A2.wav  pitch_keycenter=45 key=45
+<region> sample=Samples/honk_mono_A#2.wav  pitch_keycenter=46 key=46
+<region> sample=Samples/honk_mono_B2.wav  pitch_keycenter=47 key=47
+<region> sample=Samples/honk_mono_C3.wav  pitch_keycenter=48 key=48
+<region> sample=Samples/honk_mono_C#3.wav  pitch_keycenter=49 lokey=49

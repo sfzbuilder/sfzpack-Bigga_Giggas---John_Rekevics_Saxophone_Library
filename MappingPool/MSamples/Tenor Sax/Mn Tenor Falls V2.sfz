@@ -1,0 +1,32 @@
+<region> sample=Samples/Fall_Mono_C3.wav  pitch_keycenter=48 hikey=48
+<region> sample=Samples/Fall_2Mono_C#3.wav  pitch_keycenter=49 lokey=49 hikey=49
+<region> sample=Samples/Fall_2Mono_D3.wav  pitch_keycenter=50 lokey=50 hikey=50
+<region> sample=Samples/Fall_2Mono_D#3.wav  pitch_keycenter=51 lokey=51 hikey=51
+<region> sample=Samples/Fall_2Mono_E3.wav  pitch_keycenter=52 lokey=52 hikey=52
+<region> sample=Samples/Fall_2Mono_F3.wav  pitch_keycenter=53 lokey=53 hikey=53
+<region> sample=Samples/Fall_2Mono_F#3.wav  pitch_keycenter=54 lokey=54 hikey=54
+<region> sample=Samples/Fall_2Mono_G3.wav  pitch_keycenter=55 lokey=55 hikey=55
+<region> sample=Samples/Fall_2Mono_G#3.wav  pitch_keycenter=56 lokey=56 hikey=56
+<region> sample=Samples/Fall_2Mono_A3.wav  pitch_keycenter=57 lokey=57 hikey=57
+<region> sample=Samples/Fall_2Mono_A#3.wav  pitch_keycenter=58 lokey=58 hikey=58
+<region> sample=Samples/Fall_2Mono_B3.wav  pitch_keycenter=59 lokey=59 hikey=59
+<region> sample=Samples/Fall_2Mono_C4.wav  lokey=60 hikey=60
+<region> sample=Samples/Fall_2Mono_C#4.wav  pitch_keycenter=61 lokey=61 hikey=61 tune=-8
+<region> sample=Samples/Fall_2Mono_D4.wav  pitch_keycenter=62 lokey=62 hikey=62
+<region> sample=Samples/Fall_2Mono_D#4.wav  pitch_keycenter=63 lokey=63 hikey=63 tune=-16
+<region> sample=Samples/Fall_2Mono_E4.wav  pitch_keycenter=64 lokey=64 hikey=64
+<region> sample=Samples/Fall_2Mono_F4.wav  pitch_keycenter=65 lokey=65 hikey=65 tune=-7
+<region> sample=Samples/Fall_2Mono_F#4.wav  pitch_keycenter=66 lokey=66 hikey=66
+<region> sample=Samples/Fall_2Mono_G4.wav  pitch_keycenter=67 lokey=67 hikey=67
+<region> sample=Samples/Fall_2Mono_G#4.wav  pitch_keycenter=68 lokey=68 hikey=68
+<region> sample=Samples/Fall_2Mono_A4.wav  pitch_keycenter=69 lokey=69 hikey=69
+<region> sample=Samples/Fall_2Mono_A#4.wav  pitch_keycenter=70 lokey=70 hikey=70 tune=-10
+<region> sample=Samples/Fall_2Mono_B4.wav  pitch_keycenter=71 lokey=71 hikey=71 tune=3
+<region> sample=Samples/Fall_2Mono_C5.wav  pitch_keycenter=72 lokey=72 hikey=72 tune=-12
+<region> sample=Samples/Fall_2Mono_C#5.wav  pitch_keycenter=73 lokey=73 hikey=73
+<region> sample=Samples/Fall_2Mono_D5.wav  pitch_keycenter=74 lokey=74 hikey=74
+<region> sample=Samples/Fall_2Mono_D#5.wav  pitch_keycenter=75 lokey=75 hikey=75
+<region> sample=Samples/Fall_2Mono_E5.wav  pitch_keycenter=75 lokey=76 hikey=76 tune=-37
+<region> sample=Samples/Fall_Mono_F5.wav  pitch_keycenter=77 lokey=77 hikey=77 tune=25
+<region> sample=Samples/Fall_Mono_F#5.wav  pitch_keycenter=78 lokey=78 hikey=78
+<region> sample=Samples/Fall_2Mono_G5.wav  pitch_keycenter=79 lokey=79
