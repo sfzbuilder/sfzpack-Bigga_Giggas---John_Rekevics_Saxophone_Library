@@ -22,4 +22,4 @@ Tenor Sax-> Samples
 ```
 
 ## Don't forget to share presets!
-You can do pull requests to this repo in the `Presets` folder with your sfz files made by you! Also do the same in `Projects` if possible.
+You can do pull requests to this repo in the `Presets` folder with your sfz files made by you! Also include the `sfzproj` files of them.
