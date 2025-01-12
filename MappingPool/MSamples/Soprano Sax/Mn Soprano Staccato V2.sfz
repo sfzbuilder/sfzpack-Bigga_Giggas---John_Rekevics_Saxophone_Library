@@ -29,4 +29,4 @@
 <region> sample=Samples/staccato_2mono_C6.wav  pitch_keycenter=84 lokey=84 hikey=84
 <region> sample=Samples/staccato_2mono_C#6.wav  pitch_keycenter=85 lokey=85 hikey=85
 <region> sample=Samples/staccato_2mono_D6.wav  pitch_keycenter=86 lokey=86 hikey=86
-<region> sample=Samples/staccato_mono_d#6a.wav  pitch_keycenter=87 lokey=87
+<region> sample=Samples/staccato_mono_d#6.wav  pitch_keycenter=87 lokey=87

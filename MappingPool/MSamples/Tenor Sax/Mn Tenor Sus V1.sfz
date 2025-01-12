@@ -1,41 +1,41 @@
-<region> sample=Samples/V1_2mono_G#2.wav  pitch_keycenter=44 hikey=44 lovel=0 hivel=53 tune=-15
-<region> sample=Samples/V1_mono_A2.wav  pitch_keycenter=45 lokey=45 hikey=45 lovel=0 hivel=53 tune=-7
-<region> sample=Samples/V1_2mono_A#2.wav  pitch_keycenter=46 lokey=46 hikey=46 lovel=0 hivel=53 tune=-13
-<region> sample=Samples/V1_mono_B2.wav  pitch_keycenter=47 lokey=47 hikey=47 lovel=0 hivel=53 tune=-3
-<region> sample=Samples/V1_2mono_C3.wav  pitch_keycenter=48 lokey=48 hikey=48 lovel=0 hivel=53 tune=-13
-<region> sample=Samples/V1_4mono_C#3.wav  pitch_keycenter=49 lokey=49 hikey=49 lovel=0 hivel=53 tune=-9
-<region> sample=Samples/V1_2mono_D3.wav  pitch_keycenter=50 lokey=50 hikey=50 lovel=0 hivel=53 tune=-3
-<region> sample=Samples/V1_2mono_D#3.wav  pitch_keycenter=51 lokey=51 hikey=51 lovel=0 hivel=53 tune=-2
-<region> sample=Samples/V1_2mono_E3.wav  pitch_keycenter=52 lokey=52 hikey=52 lovel=0 hivel=53 tune=-5
-<region> sample=Samples/V1_3mono_F3.wav  pitch_keycenter=53 lokey=53 hikey=53 lovel=0 hivel=53 tune=4
-<region> sample=Samples/V1_3mono_F#3.wav  pitch_keycenter=54 lokey=54 hikey=54 lovel=0 hivel=53 tune=-2
-<region> sample=Samples/V1_mono_G3.wav  pitch_keycenter=55 lokey=55 hikey=55 lovel=0 hivel=53 tune=-3
-<region> sample=Samples/V1_mono_G#3.wav  pitch_keycenter=56 lokey=56 hikey=56 lovel=0 hivel=53 tune=1
-<region> sample=Samples/V1_3mono_A3.wav  pitch_keycenter=57 lokey=57 hikey=57 lovel=0 hivel=53 tune=-4
-<region> sample=Samples/V1_mono_A#3.wav  pitch_keycenter=58 lokey=58 hikey=58 lovel=0 hivel=53 tune=-10
-<region> sample=Samples/V1_2mono_B3.wav  pitch_keycenter=59 lokey=59 hikey=59 lovel=0 hivel=53 tune=-3
-<region> sample=Samples/V1_2mono_C4.wav  lokey=60 hikey=60 lovel=0 hivel=53 tune=-8
-<region> sample=Samples/V1_2mono_C#4.wav  pitch_keycenter=61 lokey=61 hikey=61 lovel=0 hivel=53 tune=-8
-<region> sample=Samples/V1_mono_D4.wav  pitch_keycenter=62 lokey=62 hikey=62 lovel=0 hivel=53 tune=-16
-<region> sample=Samples/V1_mono_D#4.wav  pitch_keycenter=63 lokey=63 hikey=63 lovel=0 hivel=53 tune=-6
-<region> sample=Samples/V1_2mono_E4.wav  pitch_keycenter=64 lokey=64 hikey=64 lovel=0 hivel=53 tune=-2
-<region> sample=Samples/V1_2mono_F4.wav  pitch_keycenter=65 lokey=65 hikey=65 lovel=0 hivel=53 tune=-11
-<region> sample=Samples/V1_2mono_F#4.wav  pitch_keycenter=66 lokey=66 hikey=66 lovel=0 hivel=53
-<region> sample=Samples/V1_2mono_G4.wav  pitch_keycenter=67 lokey=67 hikey=67 lovel=0 hivel=53 tune=-1
-<region> sample=Samples/V1_2mono_G#4.wav  pitch_keycenter=68 lokey=68 hikey=68 lovel=0 hivel=53 tune=-6
-<region> sample=Samples/V1_2mono_A4.wav  pitch_keycenter=69 lokey=69 hikey=69 lovel=0 hivel=53 tune=-9
-<region> sample=Samples/V1_2mono_A#4.wav  pitch_keycenter=70 lokey=70 hikey=70 lovel=0 hivel=53 tune=-7
-<region> sample=Samples/V1_2mono_B4.wav  pitch_keycenter=71 lokey=71 hikey=71 lovel=0 hivel=53 tune=-9
-<region> sample=Samples/V1_mono_C5.wav  pitch_keycenter=72 lokey=72 hikey=72 lovel=0 hivel=53 tune=-5
-<region> sample=Samples/V1_3mono_C#5.wav  pitch_keycenter=73 lokey=73 hikey=73 lovel=0 hivel=53 tune=-9
-<region> sample=Samples/V1_mono_D5.wav  pitch_keycenter=74 lokey=74 hikey=74 lovel=0 hivel=53 tune=-8
-<region> sample=Samples/V1_2mono_D#5.wav  pitch_keycenter=75 lokey=75 hikey=75 lovel=0 hivel=53 tune=-9
-<region> sample=Samples/V1_mono_E5.wav  pitch_keycenter=76 lokey=76 hikey=76 lovel=0 hivel=53 tune=-13
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=77 hikey=77 lovel=0 hivel=53
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=78 hikey=78 lovel=0 hivel=53
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=79 hikey=79 lovel=0 hivel=53
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=80 hikey=80 lovel=0 hivel=53
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=81 hikey=81 lovel=0 hivel=53
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=82 hikey=82 lovel=0 hivel=53
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=83 hikey=83 lovel=0 hivel=53
-<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=84 lovel=0 hivel=53
+<region> sample=Samples/V1_2mono_G#2.wav  pitch_keycenter=44 hikey=44 tune=-15
+<region> sample=Samples/V1_mono_A2.wav  pitch_keycenter=45 lokey=45 hikey=45 tune=-7
+<region> sample=Samples/V1_2mono_A#2.wav  pitch_keycenter=46 lokey=46 hikey=46 tune=-13
+<region> sample=Samples/V1_mono_B2.wav  pitch_keycenter=47 lokey=47 hikey=47 tune=-3
+<region> sample=Samples/V1_2mono_C3.wav  pitch_keycenter=48 lokey=48 hikey=48 tune=-13
+<region> sample=Samples/V1_4mono_C#3.wav  pitch_keycenter=49 lokey=49 hikey=49 tune=-9
+<region> sample=Samples/V1_2mono_D3.wav  pitch_keycenter=50 lokey=50 hikey=50 tune=-3
+<region> sample=Samples/V1_2mono_D#3.wav  pitch_keycenter=51 lokey=51 hikey=51 tune=-2
+<region> sample=Samples/V1_2mono_E3.wav  pitch_keycenter=52 lokey=52 hikey=52 tune=-5
+<region> sample=Samples/V1_3mono_F3.wav  pitch_keycenter=53 lokey=53 hikey=53 tune=4
+<region> sample=Samples/V1_3mono_F#3.wav  pitch_keycenter=54 lokey=54 hikey=54 tune=-2
+<region> sample=Samples/V1_mono_G3.wav  pitch_keycenter=55 lokey=55 hikey=55 tune=-3
+<region> sample=Samples/V1_mono_G#3.wav  pitch_keycenter=56 lokey=56 hikey=56 tune=1
+<region> sample=Samples/V1_3mono_A3.wav  pitch_keycenter=57 lokey=57 hikey=57 tune=-4
+<region> sample=Samples/V1_mono_A#3.wav  pitch_keycenter=58 lokey=58 hikey=58 tune=-10
+<region> sample=Samples/V1_2mono_B3.wav  pitch_keycenter=59 lokey=59 hikey=59 tune=-3
+<region> sample=Samples/V1_2mono_C4.wav  lokey=60 hikey=60 tune=-8
+<region> sample=Samples/V1_2mono_C#4.wav  pitch_keycenter=61 lokey=61 hikey=61 tune=-8
+<region> sample=Samples/V1_mono_D4.wav  pitch_keycenter=62 lokey=62 hikey=62 tune=-16
+<region> sample=Samples/V1_mono_D#4.wav  pitch_keycenter=63 lokey=63 hikey=63 tune=-6
+<region> sample=Samples/V1_2mono_E4.wav  pitch_keycenter=64 lokey=64 hikey=64 tune=-2
+<region> sample=Samples/V1_2mono_F4.wav  pitch_keycenter=65 lokey=65 hikey=65 tune=-11
+<region> sample=Samples/V1_2mono_F#4.wav  pitch_keycenter=66 lokey=66 hikey=66
+<region> sample=Samples/V1_2mono_G4.wav  pitch_keycenter=67 lokey=67 hikey=67 tune=-1
+<region> sample=Samples/V1_2mono_G#4.wav  pitch_keycenter=68 lokey=68 hikey=68 tune=-6
+<region> sample=Samples/V1_2mono_A4.wav  pitch_keycenter=69 lokey=69 hikey=69 tune=-9
+<region> sample=Samples/V1_2mono_A#4.wav  pitch_keycenter=70 lokey=70 hikey=70 tune=-7
+<region> sample=Samples/V1_2mono_B4.wav  pitch_keycenter=71 lokey=71 hikey=71 tune=-9
+<region> sample=Samples/V1_mono_C5.wav  pitch_keycenter=72 lokey=72 hikey=72 tune=-5
+<region> sample=Samples/V1_3mono_C#5.wav  pitch_keycenter=73 lokey=73 hikey=73 tune=-9
+<region> sample=Samples/V1_mono_D5.wav  pitch_keycenter=74 lokey=74 hikey=74 tune=-8
+<region> sample=Samples/V1_2mono_D#5.wav  pitch_keycenter=75 lokey=75 hikey=75 tune=-9
+<region> sample=Samples/V1_mono_E5.wav  pitch_keycenter=76 lokey=76 hikey=76 tune=-13
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=77 hikey=77
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=78 hikey=78
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=79 hikey=79
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=80 hikey=80
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=81 hikey=81
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=82 hikey=82
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=83 hikey=83
+<region> sample=Samples/V1_mono_F5.wav  pitch_keycenter=77 lokey=84

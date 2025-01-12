@@ -24,4 +24,4 @@
 <region> sample=Samples/Fall_Stereo_B5.wav  pitch_keycenter=83 lokey=83 hikey=83
 <region> sample=Samples/fall_2Stereo_c6a.wav  pitch_keycenter=84 lokey=84 hikey=84
 <region> sample=Samples/Fall_2Stereo_C#6.wav  pitch_keycenter=85 lokey=85 hikey=85
-<region> sample=Samples/fall_Stereo_d6a.wav  pitch_keycenter=86 lokey=86
+<region> sample=Samples/fall_Stereo_d6.wav  pitch_keycenter=86 lokey=86
